@@ -14,21 +14,13 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-      apiKey: "AIzaSyBtJx86_kiiXu1puRgW3Qdkmhc2kFEWCxo",
-      authDomain: "finstagram-26b60.firebaseapp.com",
-      projectId: "finstagram-26b60",
-      storageBucket: "finstagram-26b60.appspot.com",
-      messagingSenderId: "234002058684",
-      appId: "1:234002058684:web:9858b1d21f84c2051e6fb9",
+      apiKey: "",
+     
     ));
   } else {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-      apiKey: 'AIzaSyC6nHyV7pUlz2T7UTK_RrKu91Vbp6SyiCY',
-      appId: '1:234002058684:android:d2dfd35df7c30be31e6fb9',
-      messagingSenderId: '234002058684',
-      projectId: 'finstagram-26b60',
-      storageBucket: 'finstagram-26b60.appspot.com',
+      
     ));
   }
 
