@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:234002058684:android:d2dfd35df7c30be31e6fb9",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.fintagram"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC6nHyV7pUlz2T7UTK_RrKu91Vbp6SyiCY"
+          "current_key": ""
         }
       ],
       "services": {
