@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234002058684",
+    "project_id": "finstagram-26b60",
+    "storage_bucket": "finstagram-26b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234002058684:android:d2dfd35df7c30be31e6fb9",
+        "android_client_info": {
+          "package_name": "com.example.fintagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6nHyV7pUlz2T7UTK_RrKu91Vbp6SyiCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
